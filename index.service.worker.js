@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1791884384|844353';
+const CACHE_VERSION = '1791884778|3695996';
 /** @type {string} */
 const CACHE_PREFIX = 'Army Rush-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
